@@ -1,0 +1,13 @@
+input_file1 = /mnt/d/Documents/analytic_garden/Torch/CO2/data/temperature.csv
+input_file2 = /mnt/d/Documents/analytic_garden/Torch/CO2/data/CO2_conc_1850.csv
+output_path = /mnt/d/Documents/analytic_garden/Torch/CO2/output2
+predict_size = 5
+batch_size = 64
+epochs = 2000
+learning_rate = 0.01
+rnn_out1 = 20
+rnn_out2 = 10
+workers = 10
+rand_seed = 1649438337
+R^2 = 0.9552628273845742
+Best model loss = 0.009633683
